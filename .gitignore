@@ -2,3 +2,5 @@
 node_modules
 public
 .npmignore
+db.json
+_config.yml
