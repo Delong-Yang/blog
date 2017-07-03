@@ -4,3 +4,4 @@ public
 .npmignore
 db.json
 _config.yml
+package.json
