@@ -6,7 +6,7 @@ tags:
 
 ## 入门
 
-* <1>[http://www.hiredintech.com/app#system-design][1]
+* <1>[https://www.hiredintech.com/courses/system-design][1]
 * <2>[https://www.youtube.com/watch?v=-W9F__D3oY4][2]
 
 这是<[1]>里面提到的资料 是Harvard web app课的最后一节 讲scalability 里面会讲到很多基础概念比如Vertical scaling, orizontal scaling, Caching, Load balancing,Database replication, Database partitioning 还会提到很多基本思想比如avoid single point of failure
@@ -57,7 +57,7 @@ http://highscalability.com/blog/2013/10/28/design-decisions-for-scaling-your-hig
 ## 小结
 看多了以后，心里有了一个大框架,一个基本的distributed system是怎么搭起来的, 然后心里有很多if condition,如果要是满足这个条件,我应该用什么技术. 比如如果read heavy那么用cache会提升performance之类的. 同时知道应该避免什么东西, 比如避免single point of failure,再比如时间和空间的tradeoff在read heavy的时候应该倾向于时间,Write heavy的时候倾向于空间等等.
 
-[1]: http://www.hiredintech.com/app#system-design
+[1]: https://www.hiredintech.com/courses/system-design
 [2]: https://www.youtube.com/watch?v=-W9F__D3oY4
 [3]: http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones
 [4]: http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html
