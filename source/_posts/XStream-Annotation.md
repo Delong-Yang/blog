@@ -6,9 +6,10 @@ tags: java
 
 最近接手一个项目的二次开发，使用XML作为数据传输格式， 利用XStream对XML进行序列化和反序列化。
 
-## XStream常用的Annotations
+# XStream常用的Annotations
 <!-- more --> 
-1. `@XStreamAlias` XStream默认使用类名作为元素名， `@XStreamAlias`用来给xml中的元素起一个简短的别名 
+## `@XStreamAlias` 
+XStream默认使用类名作为元素名， `@XStreamAlias`用来给xml中的元素起一个简短的别名 
 
 ```java
 @XStreamAlias("query")
@@ -26,7 +27,8 @@ public class Query {
 </query>
 ```
 
-2. `@XStreamAsAttribute` 将类内成员作为父节点attribute输出，等同于xstream.useAttributeFor(Cat.class, "name")
+## `@XStreamAsAttribute` 
+将类内成员作为父节点attribute输出，等同于xstream.useAttributeFor(Cat.class, "name")
 ```java
 @XStreamAlias("query")
 public class Query {
@@ -54,8 +56,8 @@ Query{cobDates='20170524'}
 
 Query{cobDates='null'}
 ```
-3. `@XStreamImplicit`对于集合的注解， disable输出集合节点
-不加`@XStreamImplicit`输出结果为：
+## `@XStreamImplicit`
+对于集合的注解， disable输出集合节点, 不加`@XStreamImplicit`输出结果为：
 ```java
 @XStreamAlias("query")
 public class Query {
@@ -94,4 +96,5 @@ public class Query {
   <aggregate>desk</aggregate>
 </query>
 ```
-4. `@XStreamOmitField` 表明该属性不会被序列化到xml中。
+## `@XStreamOmitField` 
+表明该属性不会被序列化到xml中。
