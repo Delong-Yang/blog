@@ -10,12 +10,12 @@ tags:
 * <2>[https://www.youtube.com/watch?v=-W9F__D3oY4][2]
 
 这是<[1]>里面提到的资料 是Harvard web app课的最后一节 讲scalability 里面会讲到很多基础概念比如Vertical scaling, orizontal scaling, Caching, Load balancing,Database replication, Database partitioning 还会提到很多基本思想比如avoid single point of failure
-
+<!-- more --> 
 * <3>[http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones][3]
 <[1]> 里面提到的 Scalability for Dummies.
 
 ## 进阶 
-这部分你会遇到很多新名词，每当你遇到一个不懂的概念时，多google一下，看看这个概念或者技术是什么意思，优点和缺点各是什么，，什么时候用，这些你都知道以后，你就可以把他运用到面试中，让面试官刮目相看了。
+这部分你会遇到很多新名词，每当你遇到一个不懂的概念时，多google一下，看看这个概念或者技术是什么意思，优点和缺点各是什么，什么时候用，这些你都知道以后，你就可以把他运用到面试中，让面试官刮目相看了。
 
 * <4> [http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html][4]
 
