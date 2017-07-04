@@ -24,14 +24,12 @@ Database Sharding是一个很重要的概念 建议看一看
 * <5> [http://highscalability.com/all-time-favorites/][5]
 这个里面会讲到很多非常流行的网站架构是如何实现的 比如Twitter, Youtube, Pinterest, Google等等.我的建议是看5-6个,然后你应该已经建立起了一些基本的意识,还有知道了某些技术和产品的作用和mapping 比如说到cache你会想到memcached和Redis,说到load balancer你会想到 Amazon ELB, F5一类的.
 
-* <6> [http://www.infoq.com/]
+* <6> [http://www.infoq.com/][6]
 <[5]>里面很多的文章都会有链接,其中有很多会指向这个网站,这里面有很多的tech talk
 
 * <7> [https://www.facebook.com/Engineering/notes][7]
-Facebook非常好的技术日志 会讲很多facebook的feature怎么实现的 比如facebook 
-message:https://www.facebook.com/notes/facebook-engineering/the-underlying-
-technology-of-messages/454991608919 建议看看 尤其是准备面facebook的同学
-这有一个facebook talk讲storage的https://www.youtube.com/watch?v=5RfFhMwRAic
+Facebook非常好的技术日志 会讲很多facebook的feature怎么实现的 比如facebook message:<https://www.facebook.com/notes/facebook-engineering/the-underlying-technology-of-messages/454991608919> 建议看看 尤其是准备面facebook的同学
+这有一个facebook talk讲storage的<https://www.youtube.com/watch?v=5RfFhMwRAic>
 
 * <8> 一些国内网站上的资料
 [http://blog.csdn.net/sigh1988/article/details/9790337](http://blog.csdn.net/sigh1988/article/details/9790337)
