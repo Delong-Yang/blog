@@ -2,6 +2,6 @@
 node_modules
 public
 .npmignore
-./db.json
+db.json
 _config.yml
 /package.json
