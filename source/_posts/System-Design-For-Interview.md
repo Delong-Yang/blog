@@ -45,8 +45,8 @@ Facebook非常好的技术日志 会讲很多facebook的feature怎么实现的 �
       http://smartdatacollective.com/michelenemschoff/206391/quick-guide-structured-and-unstructured-data http://stackoverflow.com/questions/18678315/amazon-s3-or-dynamodb
 
 * <10> 给有兴趣深入研究的人看的
-Mining Massive Datasets --讲很多big data和data mining的东西
-Big Data: Principles and best practices of scalable realtime data systems(http://www.amazon.com/gp/product/1617290343) --
+    * Mining Massive Datasets --讲很多big data和data mining的东西
+    * Big Data: Principles and best practices of scalable realtime data systems<<http://www.amazon.com/gp/product/1617290343) >
 twitter的前员工讲述如何处理实时数据 目前市面上讲解big data最好的一本书
 
 * <11> 其他资料
