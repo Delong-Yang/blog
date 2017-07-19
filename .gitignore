@@ -4,4 +4,5 @@ public
 .npmignore
 db.json
 _config.yml
-/package.json
+package.json
+notebook/.ipynb_checkpoints
