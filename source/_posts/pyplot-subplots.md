@@ -1,9 +1,9 @@
 ---
-title: pyplot-subplots
+title: Pyplot Subplots
 date: 2017-07-19 14:56:05
 tags: python
 ---
-# How pyplot.subplots works
+
 matplotlib.pyplot 是Python一个用于画图的Library， 效果类似于Matlab中的plot。
 subplots函数用于在一副图中画出多个子图表。
 
