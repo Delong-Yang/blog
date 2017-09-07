@@ -1,7 +1,7 @@
 ---
 title: XStream Annotation
 date: 2017-05-24 11:01:46
-tags: java
+tags: Java
 ---
 
 最近接手一个项目的二次开发，使用XML作为数据传输格式， 利用XStream对XML进行序列化和反序列化。

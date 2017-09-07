@@ -1,7 +1,7 @@
 ---
 title: Pyplot Subplots
 date: 2017-07-19 14:56:05
-tags: python
+tags: Python
 ---
 
 matplotlib.pyplot 是Python一个用于画图的Library， 效果类似于Matlab中的plot。
